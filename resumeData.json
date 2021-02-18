@@ -137,22 +137,22 @@
         "url": "https://covid-19-tracker-a8d99.web.app/"
       },
       {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+        "title": "Gatsby App",
+        "category": "Gatsby App built with Gatsby",
+        "image": "gatsby-tutorial.png",
+        "url": "https://gatsby-demo-tutorial.netlify.app/"
       },
       {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+        "title": "WPGraphQL Posts Finder",
+        "category": "WPGraphQL Posts Finder built with Gatsby",
+        "image": "wpgraphql.png",
+        "url": "https://wpgraphql-posts-finder.netlify.app/"
       },
       {
         "title": "Netflix Clone",
         "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "image": "netflix.png",
+        "url": "https://netflix-clone-34a9c.web.app/"
       }
     ]
   },
