@@ -59,9 +59,15 @@
     ],
     "work": [
       {
+        "company": "United Remote",
+        "title": "Senior Frontend Developer",
+        "years": "03/2023 - Present",
+        "description": "Working mainly with symfony/react/wordpress Projects."
+      },
+      {
         "company": "Web International Services",
         "title": "Web Frontend Developer",
-        "years": "01/2019 - Present",
+        "years": "01/2019 -  03/2023",
         "description": "Working mainly with wordpress Projects."
       },
       {
